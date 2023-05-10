@@ -1,5 +1,7 @@
 # handwritten_digit_recognition
 
+Code along project with @NeuralNine YouTube channel. (https://youtu.be/bte8Er0QhDg)
+
 For 1 epoch, the accuracy acheived on the MNIST's test data was 92.14%.
 On increasing the epochs to 3, accuracy increased to 97.72%.
 
